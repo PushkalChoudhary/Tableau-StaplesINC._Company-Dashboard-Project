@@ -18,7 +18,8 @@ The dashboard provides quick insights, while the story offers a guided walkthrou
 
 ## Files in Repository
 - `Tableau Staples Inc Project.twbx` → Tableau packaged workbook file (contains both dashboard & story).  
-- `Tableau Dashboard Image.png` → Dashboard screenshot preview.  
+- `Tableau Dashboard Image.png` → Dashboard screenshot preview.
+- `Datasets Folder` → Containing all the datasets used
 
 ## Tools Used
 - **Tableau Desktop** (for data visualization, dashboard, and story building).  
